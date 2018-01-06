@@ -1,0 +1,8 @@
+{
+  "name": "gem",
+  "app_id": "3fb512fc",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
